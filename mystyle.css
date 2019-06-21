@@ -1,10 +1,11 @@
 <head>
 <style>
-<div>
-h4 {
+
+#firstline {
   color: pink;
   margin-left: 200px;
+  text-align: center;
 }
-</div>
+
 </style>
 </head>
