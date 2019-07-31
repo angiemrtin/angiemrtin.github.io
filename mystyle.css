@@ -10,10 +10,10 @@
 
 hr {
     display: block;
-    height: 1px;
-    border: 1;
+    height: 2px;
+    border: 2;
     border-top: 1px solid #ccc;
     margin: 1em 0;
     padding: 0;
-    color: red;
+    border-color: red;
 }
