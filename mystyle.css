@@ -1,5 +1,9 @@
 
 * {
   color: red;
-  font-family: Arial; 
+  font-family: Arial;
+}
+
+#firstline {
+  text-align: center;
 }
