@@ -16,3 +16,9 @@ hr {
     color: #e30909;
     background-color: #e30909;
 }
+<style>
+.border {
+ border-style: solid;
+ border-color: #e30909;
+}
+</style>
