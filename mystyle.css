@@ -6,6 +6,8 @@
 
 #firstline {
   text-align: center;
+  writing-mode: vertical-rl;
+  text-orientation: mixed;
 }
 
 hr {
