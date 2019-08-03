@@ -8,6 +8,10 @@
   text-align: left;
 }
 
+p {
+  font-size: 15px;
+}
+
 hr {
     height: 1px;
     border: none;
