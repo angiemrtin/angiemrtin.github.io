@@ -1,6 +1,6 @@
 
 * {
-  color: crimson;
+  color: #d62d2d;
   font-family: Arial;
 }
 
@@ -13,6 +13,6 @@ hr {
     border: none;
     margin: 1em 0;
     padding: 0;
-    color: crimson;
-    background-color: crimson;
+    color: #d62d2d;
+    background-color: #d62d2d;
 }
