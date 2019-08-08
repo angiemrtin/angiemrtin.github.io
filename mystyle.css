@@ -21,10 +21,13 @@ hr {
     background-color: #e30909;
 }
 
-
 .border {
   border: 1px;
   border-style: solid;
   border-color: #e30909;
   padding: 4em;
+}
+
+section {
+  float: left;
 }
