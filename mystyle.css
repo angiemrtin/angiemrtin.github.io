@@ -1,6 +1,6 @@
 
 * {
-  color: #e30909;
+  color: red;
   font-family: Arial;
 }
 
@@ -17,14 +17,14 @@ hr {
     border: none;
     margin: 1em 0;
     padding: 0;
-    color: #e30909;
-    background-color: #e30909;
+    color: red;
+    background-color: red;
 }
 
 .border {
   border: 1px;
   border-style: solid;
-  border-color: #e30909;
+  border-color: red;
   padding: 4em;
 }
 
