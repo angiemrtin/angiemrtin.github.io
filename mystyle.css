@@ -30,4 +30,16 @@ hr {
 
 section {
   float: left;
+  width: 30%;
+}
+
+header,
+section,
+aside,
+footer {
+  margin: 0 1.5% 24px 1.5%;
+}
+
+footer {
+  clear: both;
 }
