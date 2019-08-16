@@ -40,7 +40,7 @@ footer {
   margin: 0 1.5% 24px 1.5%;
 }
 
-button {
+.button {
   cursor: pointer;
   background-color: white;
   border-style: solid;
@@ -50,7 +50,7 @@ button {
   heigth: 100px;
 }
 
-button:hover {
+.button:hover {
   background-color: red;
   color: white;
 }
