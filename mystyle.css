@@ -58,3 +58,7 @@ footer {
 footer {
   clear: both;
 }
+
+#aboutdiv {
+  text-align: left;
+}
