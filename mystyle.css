@@ -42,13 +42,14 @@ footer {
 
 .button {
   cursor: pointer;
-  background-color: pink;
-  border: none;
+  background-color: white;
+  border-style: solid;
+  border-color: red;
   text-align: center;
 }
 
 .button:hover {
-  background-color: blue;
+  background-color: pink;
 }
 
 footer {
