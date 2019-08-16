@@ -36,7 +36,8 @@ section {
 header,
 section,
 aside,
-footer {
+footer,
+body {
   margin: 0 1.5% 24px 1.5%;
 }
 
