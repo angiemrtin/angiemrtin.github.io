@@ -51,7 +51,8 @@ footer {
 }
 
 .button:hover {
-  background-color: pink;
+  background-color: red;
+  color: white;
 }
 
 footer {
