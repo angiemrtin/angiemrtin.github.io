@@ -46,8 +46,8 @@ footer {
   border-style: solid;
   border-color: red;
   text-align: center;
-  width: 50px;
-  heigth: 25px;
+  width: 100px;
+  heigth: 50px;
 }
 
 .button:hover {
