@@ -1,6 +1,6 @@
 
 * {
-  color: red;
+  color: #CF2A2D;
   font-family: Arial;
   background-color: #E1DADD;
 }
@@ -18,14 +18,14 @@ hr {
     border: none;
     margin: 1em 0;
     padding: 0;
-    color: red;
-    background-color: red;
+    color: #CF2A2D;
+    background-color: #CF2A2D;
 }
 
 .border {
   border: 1px;
   border-style: solid;
-  border-color: red;
+  border-color: #CF2A2D;
   padding: 4em;
 }
 
@@ -45,14 +45,14 @@ footer {
   cursor: pointer;
   background-color: white;
   border-style: solid;
-  border-color: red;
+  border-color: #CF2A2D;
   text-align: center;
   width: 100px;
   heigth: 100px;
 }
 
 .button:hover {
-  background-color: red;
+  background-color: #CF2A2D;
   color: white;
 }
 
