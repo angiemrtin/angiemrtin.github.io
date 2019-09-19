@@ -2,7 +2,7 @@
 * {
   color: #CF2A2D;
   font-family: Arial;
-  background-color: #E1DADD;
+  background-color: white;
 }
 
 #firstline {
@@ -43,7 +43,7 @@ footer {
 
 .button {
   cursor: pointer;
-  background-color: #E1DADD;
+  background-color: white;
   border-style: solid;
   border-color: #CF2A2D;
   text-align: center;
