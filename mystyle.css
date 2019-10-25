@@ -63,10 +63,9 @@ footer {
 
 footer {
   clear: both;
-  font-family: "Avenir Book";
+  font-family: "Arial";
 }
 
-#aboutdiv {
-  text-align: left;
-  margin: 0 1.5% 24px 1.5%;
+#aboutme {
+  clear: both;
 }
