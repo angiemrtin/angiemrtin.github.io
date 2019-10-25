@@ -73,8 +73,7 @@ three {
 }
 
 header,
-section,
-aside {
+#sections {
   margin: 0 1.5% 24px 1.5%;
 }
 
