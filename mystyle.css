@@ -6,7 +6,6 @@
 }
 
 .topnav a {
-
   position: fixed;
   top: 0px;
   float: right;
@@ -95,6 +94,7 @@ aside {
 }
 
 #aboutme {
+  width: 200px;
   clear: both;
   margin: 20px;
   text-align: center;
