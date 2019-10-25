@@ -54,9 +54,10 @@ hr {
   padding: 4em;
 }
 
-section {
+#sections {
   float: left;
   width: 30%;
+  margin-bottom: 20px;
 }
 
 header,
