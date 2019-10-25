@@ -6,11 +6,12 @@
 }
 
 .topnav a {
+
+  position: fixed;
+  top: 0px;
   float: right;
   color: black;
   text-align: left;
-  padding: 14px 16px;
-  text-decoration: none;
   font-size: 17px;
 }
 
@@ -60,8 +61,7 @@ section {
 
 header,
 section,
-aside,
-footer {
+aside {
   margin: 0 1.5% 24px 1.5%;
 }
 
@@ -80,11 +80,7 @@ footer {
   color: white;
 }
 
-footer {
-  clear: both;
-  font-family: "Arial";
-}
-
 #aboutme {
   clear: both;
+  margin: 20px;
 }
