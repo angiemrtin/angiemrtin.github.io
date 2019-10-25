@@ -5,12 +5,9 @@
   background-color: #f7f6f6;
 }
 
-h1 {
-  font-size: 60px;
-}
-
 #firstline {
   text-align: center;
+  font-size: 60px;
 }
 
 header {
