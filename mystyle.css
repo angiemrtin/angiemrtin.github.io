@@ -56,9 +56,20 @@ hr {
 }
 
 #sections {
+  width: 500px;
   float: left;
-  width: 30%;
-  margin-bottom: 20px;
+}
+
+one {
+  width: 200px;
+}
+
+two {
+  width: 100px;
+}
+
+three {
+  width: 200px;
 }
 
 header,
