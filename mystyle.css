@@ -2,7 +2,7 @@
 * {
   color: black;
   font-family: "Arial";
-  background-color: #e2dddc;
+  background-color: #f7f6f6;
 }
 
 h1 {
@@ -51,7 +51,7 @@ footer {
 
 .button {
   cursor: pointer;
-  background-color: #e2dddc;
+  background-color: #f7f6f6;
   border-style: solid;
   border-color: black;
   text-align: center;
