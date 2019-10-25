@@ -5,6 +5,16 @@
   background-color: #f7f6f6;
 }
 
+.topnav a:hover {
+  background-color: #f7f6f6;
+  color: #fe4848;
+}
+
+.topnav a.active {
+  background-color: #f7f6f6;
+  color: #fe4848;
+}
+
 #firstline {
   text-align: center;
   font-size: 70px;
