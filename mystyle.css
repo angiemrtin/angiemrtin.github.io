@@ -23,15 +23,15 @@ li a {
   text-decoration: none;
 }
 
-#li1 a:hover {
+#li1:hover {
   color: #e2dddc;
 }
 
-#li2 a:hover {
+#li2:hover {
   color: #305d75;
 }
 
-#li3 a:hover {
+#li3:hover {
   color: #ceab1e;
 }
 
