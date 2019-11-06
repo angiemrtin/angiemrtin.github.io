@@ -79,20 +79,15 @@ hr {
   float: left;
 }
 
-/* #one {
-  width: 200px;
+#flex-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 500px;
+    margin: 0 auto;
 }
 
-#two {
-  width: 100px;
-}
-
-#three {
-  width: 200px;
-}*/
-
-header,
-#sections {
+header {
   margin: 0 1.5% 24px 1.5%;
 }
 
