@@ -8,12 +8,14 @@
 .topnav a {
   position: fixed;
   top: 0px;
+  bottom: 0px;
   float: left;
   color: black;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
   font-size: 17px;
+  display: inline;
 }
 
 .topnav a:hover {
