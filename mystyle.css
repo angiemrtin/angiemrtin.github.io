@@ -25,8 +25,16 @@ li a {
   text-decoration: none;
 }
 
-li a:hover {
-  background-color: #111;
+#li1 a:hover {
+  color: #e2dddc;
+}
+
+#li2 a:hover {
+  color: #305d75;
+}
+
+#li3 a:hover {
+  color: #ceab1e;
 }
 
 .active {
