@@ -74,22 +74,22 @@ hr {
   padding: 4em;
 }
 
-#sections {
-  width: 500px;
+#one, #two, #three {
+  width: 300px;
   float: left;
 }
 
-one {
+/* #one {
   width: 200px;
 }
 
-two {
+#two {
   width: 100px;
 }
 
-three {
+#three {
   width: 200px;
-}
+}*/
 
 header,
 #sections {
