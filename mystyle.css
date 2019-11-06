@@ -10,7 +10,6 @@ ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: #f7f6f6;
 }
 
 li {
@@ -36,7 +35,7 @@ li a {
 }
 
 .active {
-  background-color: #4CAF50;
+  background-color: #ceab1e;
 }
 
 
