@@ -23,19 +23,19 @@ li a {
 }
 
 #li1:hover {
-  color: #fe4848;
+  color: #F2DF37;
 }
 
 #li2:hover {
-  color: #fe4848;
+  color: #F2DF37;
 }
 
 #li3:hover {
-  color: #fe4848;
+  color: #F2DF37;
 }
 
 .active {
-  background-color: #fe4848;
+  background-color: #F2DF37;
   border: 1px;
   border-color: black;
 }
