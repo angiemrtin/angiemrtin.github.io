@@ -24,24 +24,20 @@ li a {
 
 #li1:hover {
   color: #fe4848;
-  border: 1px;
-  border-color: #fe4848;
 }
 
 #li2:hover {
-  color: #c9c0ff;
-  border: 1px;
-  border-color: #c9c0ff;
+  color: #fe4848;
 }
 
 #li3:hover {
-  color: #ceab1e;
-  border: 1px;
-  border-color: #ceab1e;
+  color: #fe4848;
 }
 
 .active {
-  background-color: #ceab1e;
+  background-color: #fe4848;
+  border: 1px;
+  border-color: black;
 }
 
 
