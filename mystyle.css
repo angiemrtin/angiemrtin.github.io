@@ -79,13 +79,13 @@ hr {
     display: flex;
     flex-direction: row;
     justify-content: space-between;
-    width: 500px;
+    width: 100%;
     margin: 0 auto;
     position: relative;
 }
 
 .flex-item {
-    width: 100px;
+    width: 30%;
     height: 200px;
 }
 
