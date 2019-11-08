@@ -95,9 +95,9 @@ header {
 
 .button {
   cursor: pointer;
-  background-color: #f7f6f6;
-  border-style: solid;
-  border-color: black;
+  background-color: #D5B4F2;
+  /*border-style: solid;
+  border-color: #D5B4F2;*/
   text-align: center;
   width: 100px;
   heigth: 100px;
@@ -105,7 +105,7 @@ header {
 
 .button:hover {
   background-color: black;
-  color: white;
+  color: #f7f6f6;
 }
 
 #about {
