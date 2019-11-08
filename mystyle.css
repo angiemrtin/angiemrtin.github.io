@@ -135,3 +135,7 @@ header {
 .navbar a:hover {
   color: #D5B4F2;
 }
+
+#contacttitle {
+  margin: 20px;
+}
