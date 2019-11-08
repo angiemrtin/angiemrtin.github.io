@@ -81,7 +81,6 @@ hr {
     justify-content: space-between;
     width: 100%;
     margin: 0 auto;
-    position: relative;
 }
 
 .flex-item {
@@ -92,7 +91,7 @@ hr {
 header {
   margin: 0 1.5% 24px 1.5%;
 }
-
+/*
 .button {
   cursor: pointer;
   background-color: #f7f6f6;
@@ -106,13 +105,12 @@ header {
 .button:hover {
   color: #D5B4F2;
 }
-
+*/
 #about {
   width: 100%;
   clear: both;
   padding-top: 20px;
   text-align: center;
-  position: relative;
 }
 
 .navbar {
