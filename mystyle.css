@@ -51,11 +51,9 @@ li a {
 }
 
 .header {
-  position: absolute;
-  visibility: visible;
+  position: left;
   margin-left: 100px;
-  margin-top: 250px;
-  z-index: 200;
+  margin-top: 150px;
   text-align: left;
 }
 
