@@ -42,11 +42,12 @@ li a {
 
 
 #firstline {
+  font-family: "Palatino Linotype", "Arial", Sans-Serif;
   text-align: left;
   position: left;
   font-size: 40px;
   left: 50px;
-  top: 600px;
+  margin-top: 600px;
 }
 
 .header {
