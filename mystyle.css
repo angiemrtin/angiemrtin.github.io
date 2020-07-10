@@ -46,7 +46,7 @@ li a {
   font-family: "Palatino Linotype", "Arial", Sans-Serif;
   text-align: left;
   font-size: 40px;
-  margin-left: 100px;
+  /*margin-left: 100px;*/
   margin-top: 250px;
 }
 
@@ -71,7 +71,8 @@ hr {
 }
 
 .topnav {
-  margin-top: 20px;
+  margin-top: 40px;
+  margin-left: 70px;
 }
   
   
