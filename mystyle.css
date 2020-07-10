@@ -42,16 +42,16 @@ li a {
 
 
 #firstline {
+  position: absolute;
   font-family: "Palatino Linotype", "Arial", Sans-Serif;
   text-align: left;
-  position: left;
   font-size: 40px;
   margin-left: 100px;
   margin-top: 250px;
 }
 
 .header {
-  position: left;
+  position: absolute;
   margin-left: 100px;
   margin-top: 150px;
   text-align: left;
