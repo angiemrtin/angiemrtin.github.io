@@ -43,11 +43,17 @@ li a {
 
 #firstline {
   text-align: left;
+  position: left;
   font-size: 40px;
 }
 
-header {
-  text-align: center;
+.header {
+  position: absolute;
+  visibility: visible;
+  left: 20px;
+  top: 100px;
+  z-index: 200;
+  text-align: left;
 }
 
 p {
