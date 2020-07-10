@@ -46,15 +46,15 @@ li a {
   text-align: left;
   position: left;
   font-size: 40px;
-  left: 50px;
-  margin-top: 600px;
+  margin-left: 100px;
+  margin-top: 250px;
 }
 
 .header {
   position: absolute;
   visibility: visible;
-  left: 50px;
-  margin-top: 600px;
+  margin-left: 100px;
+  margin-top: 250px;
   z-index: 200;
   text-align: left;
 }
