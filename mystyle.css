@@ -45,6 +45,8 @@ li a {
   text-align: left;
   position: left;
   font-size: 40px;
+  left: 50px;
+  top: 600px;
 }
 
 .header {
