@@ -53,7 +53,7 @@ li a {
   position: absolute;
   visibility: visible;
   left: 50px;
-  top: 600px;
+  margin-top: 600px;
   z-index: 200;
   text-align: left;
 }
