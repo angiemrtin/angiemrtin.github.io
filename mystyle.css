@@ -50,6 +50,7 @@ li a {
 }
 
 .header {
+  position: relative;
   margin-left: 100px;
   margin-top: 245px;
   text-align: left;
