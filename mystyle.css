@@ -49,12 +49,24 @@ li a {
   margin-top: 20px;
 }
 
-.header {
-  position: relative;
+#subtitle {
+  position:relative;
   margin-left: 100px;
   margin-top: 150px;
   text-align: left;
   font-size: 13px;
+}
+  
+
+#subtitle: after{
+  content: "";
+  display:block;
+  width: 100px;
+  height: 1px;
+  background: black;
+  position: absolute;
+  right: 0;
+  top: 50%;
 }
 
 p {
