@@ -63,7 +63,7 @@ p {
 hr {
     background-color: 7D9052;
     width: 15%;
-    border: solid;
+    clear: left;
 }
 
 .topnav {
