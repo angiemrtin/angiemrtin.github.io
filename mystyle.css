@@ -62,7 +62,8 @@ p {
 }
 
 hr {
-    background-color: 7D9052;
+    background-color: #7D9052;
+    color:#7D9052;
     width: 15%;
     clear: left;
 }
