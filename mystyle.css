@@ -64,7 +64,7 @@ li a {
   display:block;
   width: 100px;
   height: 1px;
-  background: black;
+  background: #000;
   position: absolute;
   right: 0;
   top: 50%;
