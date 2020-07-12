@@ -20,7 +20,7 @@ li a {
   text-align: center;
   padding: 14px 30px;
   text-decoration: none;
-  font-size: 12px;
+  font-size: 13px;
 }
 
 #li1:hover {
@@ -54,11 +54,16 @@ li a {
 #subtitle {
   position:relative;
   margin-left: 100px;
-  margin-top: 100px;
+  margin-top: 0px;
   text-align: left;
   font-size: 13px;
 }
   
+#based {
+  position:relative;
+  margin-left: 300px;
+  margin-top: 0px;
+}
 
 #subtitle: after{
   content: "";
@@ -129,7 +134,7 @@ header {
   width: 100%;
   overflow: hidden;
   position: fixed;
-  font-size: 12px;
+  font-size: 13px;
 }
 
 .navbar a {
