@@ -65,8 +65,9 @@ hr {
     border: none;
     margin: 1em 0;
     padding: 0;
-    color: black;
-    background-color: black;
+    color: 7D9052;
+    background-color: 7D9052;
+    width: 10%;
 }
 
 .topnav {
