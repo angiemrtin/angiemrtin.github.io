@@ -42,11 +42,12 @@ li a {
 
 
 #firstline {
-  position: absolute;
+  position: relative;
   font-family: "Palatino Linotype", "Times New Roman", Serif;
   text-align: left;
   font-size: 40px;
-  margin-top: 20px;
+  margin-top: 170px;
+  margin-left: 100px;
 }
 
 #subtitle {
