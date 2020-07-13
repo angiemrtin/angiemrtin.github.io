@@ -43,7 +43,7 @@ li a {
 
 
 #firstline {
-  position: relative;
+  position: absolute;
   font-family: "Palatino Linotype", "Times New Roman", Serif;
   text-align: left;
   font-size: 40px;
