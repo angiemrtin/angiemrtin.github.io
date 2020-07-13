@@ -52,16 +52,16 @@ li a {
 }
 
 #subtitle {
-  position:relative;
+  position: relative;
   margin-left: 100px;
-  margin-top: 160px;
+  margin-top: 500px;
   text-align: left;
   font-size: 13px;
 }
   
 #based {
-  position:relative;
-  margin-left: 500px;
+  position: relative;
+  margin-left: 600px;
   margin-top: 0px;
 }
 
