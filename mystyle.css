@@ -48,6 +48,9 @@ li a {
   position: absolute;
   margin-top: 150px;
   margin-left: 100px;
+  font-family: "Palatino Linotype", "Times New Roman", Serif;
+  text-align: left;
+  font-size: 40px;
 }
 
 #firstline{
