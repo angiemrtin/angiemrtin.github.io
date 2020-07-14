@@ -5,6 +5,15 @@
   background-color: #ffffff;
 }
 
+header {
+  margin: 0 1.5% 24px 1.5%;
+}
+
+.topnav {
+  margin-top: 40px;
+  margin-left: 70px;
+}
+
 ul {
   list-style-type: none;
   margin: 0;
@@ -41,9 +50,8 @@ li a {
   border-color: black;
 }
 
-
-#firstline {
-  position: relative;
+.firstlinediv{
+  position: absolute;
   font-family: "Palatino Linotype", "Times New Roman", Serif;
   text-align: left;
   font-size: 40px;
@@ -51,21 +59,22 @@ li a {
   margin-left: 100px;
 }
 
-#subtitle {
-  position: relative;
+.subtitlediv {
+  position: absolute;
   margin-left: 100px;
-  margin-top: 150px;
+  margin-top: 130px;
   text-align: left;
   font-size: 13px;
 }
   
-/*#based {
-  position: relative;
-  margin-left: 600px;
-  margin-top: 0px;
+.baseddiv {
+  position: absolute;
+  margin-left: 190px;
+  margin-top: 130px;
+  font-size: 13px;
 }
 
-#subtitle: after{
+/*#subtitle: after{
   content: "";
   display:block;
   width: 100px;
@@ -76,22 +85,25 @@ li a {
   top: 50%;
 }*/
 
+.about {
+  width: 400px;
+  clear: both;
+  margin-top: : 1000px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
 p {
   font-size: 13px;
 }
 
-hr {
+/*hr {
     background-color: #7D9052;
     color:#7D9052;
     width: 15%;
     clear: left;
 }
-
-.topnav {
-  margin-top: 40px;
-  margin-left: 70px;
-}
-  
   
 .border {
   border: 1px;
@@ -101,10 +113,6 @@ hr {
 }
 
 
-header {
-  margin: 0 1.5% 24px 1.5%;
-}
-/*
 .button {
   cursor: pointer;
   background-color: #f7f6f6;
@@ -119,15 +127,6 @@ header {
   color: #D5B4F2;
 }
 */
-
-#about {
-  width: 400px;
-  clear: both;
-  margin-top: : 1000px;
-  margin-left: auto;
-  margin-right: auto;
-  text-align: center;
-}
 
 .navbar {
   bottom: 0;
