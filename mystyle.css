@@ -44,7 +44,7 @@ li a {
   color: #D5B4F2;
 }
 
-.firstlinediv#firstline{
+#firstline.firstlinediv{
   position: absolute;
   font-family: "Palatino Linotype", "Times New Roman", Serif;
   text-align: left;
