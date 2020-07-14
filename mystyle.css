@@ -44,13 +44,16 @@ li a {
   color: #D5B4F2;
 }
 
-#firstline.firstlinediv{
+.firstlinediv {
   position: absolute;
+  margin-top: 150px;
+  margin-left: 100px;
+}
+
+#firstline{
   font-family: "Palatino Linotype", "Times New Roman", Serif;
   text-align: left;
   font-size: 40px;
-  margin-top: 150px;
-  margin-left: 100px;
 }
 
 .subtitlediv {
