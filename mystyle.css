@@ -132,6 +132,7 @@ p {
 
 .navbar {
   bottom: 0;
+  margin-left: 80px;
   width: 100%;
   overflow: hidden;
   position: fixed;
