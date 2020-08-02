@@ -46,7 +46,7 @@ li a {
 
 .firstlinediv {
   position: absolute;
-  margin-top: 130px;
+  margin-top: 140px;
   margin-left: 100px;
   font-family: "Palatino Linotype", "Times New Roman", Serif;
   text-align: left;
@@ -57,6 +57,7 @@ li a {
   font-family: "Palatino Linotype", "Times New Roman", Serif;
   text-align: left;
   font-size: 40px;
+  display: block;
 }
 
 .subtitlediv {
