@@ -88,6 +88,7 @@ li a {
 }*/
 
 .about {
+  position: absolute;
   width: 400px;
   clear: both;
   margin-top: : 1000px;
